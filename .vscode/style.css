@@ -1,0 +1,80 @@
+body{
+    margin: 0px 300px 0px 300px;
+    padding: 0;
+    /*padding-right: 300px;*/
+    font-family: sans-serif;
+    line-height:30px;
+}
+.container{
+    padding: 20px;
+    background-color: rgb(242, 242, 242);
+    text-align: center;
+}
+
+.head, .blog{
+    text-align: left;
+    font-size: 30px;
+    color: rgb(55, 133, 161);
+    font-weight: bold;
+}
+.list{
+    list-style-type: none;
+    font-size: 20px;
+}
+
+.list li{
+    display: inline;
+    margin: 15px;
+    position: relative;
+}
+#html{
+    font-size: 40px;
+    color: rgb(55, 133, 161);
+}
+#top{
+    padding-left: 120px;
+    font-size: 20px;
+}
+.lang{
+    display: inline;
+    display: flex;
+    font-weight: bold;
+}
+#laura{
+    margin-top: 35px;
+    width: 60px;
+    height: 60px;
+}
+#date{
+    margin-top: 0px;
+    font-size: 20px;
+    font-style: italic;
+}
+.writing{
+    font-size: 20px;
+}
+#codeImg{
+    padding-left: 35px;
+}
+.icons{
+    background-color: rgb(242, 242, 242);
+    margin-right: 500px;
+    border-top-style: solid;
+    border-top-width: 5px;
+    border-top-color: rgb(55, 133, 161);
+}
+#hood{
+    padding-top: 40px;
+    text-align: center;
+}
+.pictur1{
+    padding-left: 50px;
+    color:rgb(55, 133, 161); 
+    font-weight: bold; 
+}
+.related{
+    padding-top: 0px;
+    margin-top: 0px;
+    width: 90px;
+    height: 90px;
+}
